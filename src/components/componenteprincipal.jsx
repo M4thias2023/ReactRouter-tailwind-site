@@ -1,6 +1,5 @@
 export const ComponentePrincipal = () =>{
     return(
-            <h1>ESTE ES EL COMPONENTE PRINCIPAL</h1>
+            <h1 className="text-black mt-20">ESTE ES EL COMPONENTE PRINCIPAL</h1>
         )
-
 }

@@ -8,16 +8,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
 }
 
 html{
     scroll-behavior: smooth;
-}
-
-.cuerpoprincipal{
-    background-color: #242424;
-    color: white;
 }
 
 
